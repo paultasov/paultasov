@@ -55,12 +55,6 @@ Cross-functional Collaboration, Scrum/Kanban, Stakeholder Communication
 
 ### 📫 Feel free to reach me out
 
-<a href="https://t.me/pavel_tanasov" target="_blank">
-    <img src="https://img.shields.io/badge/-@pavel_tanasov-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-</a>
-<a href="mailto:paultasov@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-paultasov@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-</a>
-<a href="https://linkedin.com/in/paultasov" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
+[![Telegram](https://img.shields.io/badge/-@pavel_tanasov-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/pavel_tanasov)
+[![Gmail](https://img.shields.io/badge/-paultasov@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paultasov@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/paultasov)
